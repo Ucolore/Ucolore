@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Joaquim Ucolore
 ###### 👀 I’m interested in solving engineering problems to help my country development 
 ###### 🌱 I’m currently learning to code using multiple kind of programming languages
-###### 💞️ I’m looking to collaborate on health and development projects 
+###### 💞️ I’m looking to collaborate on health and sustainable development projects 
  
 <div align="center">
   <a href="https://github.com/Ucolore">
